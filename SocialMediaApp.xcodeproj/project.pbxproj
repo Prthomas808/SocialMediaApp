@@ -16,6 +16,18 @@
 		1D9044802B45ED9600C25E3F /* NotificationsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D90447F2B45ED9600C25E3F /* NotificationsVC.swift */; };
 		1D9044822B45EDAB00C25E3F /* ProfileVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044812B45EDAB00C25E3F /* ProfileVC.swift */; };
 		1D9044842B45EDED00C25E3F /* TabsController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044832B45EDED00C25E3F /* TabsController.swift */; };
+		1D9044882B45F13100C25E3F /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044872B45F13100C25E3F /* LoginVC.swift */; };
+		1D90448A2B45F14E00C25E3F /* RegisterVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044892B45F14E00C25E3F /* RegisterVC.swift */; };
+		1D9044952B45F20600C25E3F /* UIViewController+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D90448C2B45F20600C25E3F /* UIViewController+Ext.swift */; };
+		1D9044962B45F20600C25E3F /* ReusableAlert.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D90448E2B45F20600C25E3F /* ReusableAlert.swift */; };
+		1D9044972B45F20600C25E3F /* ReusableButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D90448F2B45F20600C25E3F /* ReusableButton.swift */; };
+		1D9044982B45F20600C25E3F /* ReusableLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044902B45F20600C25E3F /* ReusableLabel.swift */; };
+		1D9044992B45F20600C25E3F /* ReusableTextfield.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044912B45F20600C25E3F /* ReusableTextfield.swift */; };
+		1D90449A2B45F20600C25E3F /* ReusableBodyLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044922B45F20600C25E3F /* ReusableBodyLabel.swift */; };
+		1D90449B2B45F20600C25E3F /* ReusableSystemImage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044932B45F20600C25E3F /* ReusableSystemImage.swift */; };
+		1D90449C2B45F20600C25E3F /* ReusableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044942B45F20600C25E3F /* ReusableView.swift */; };
+		1D90449F2B45F25400C25E3F /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D90449E2B45F25400C25E3F /* HeaderView.swift */; };
+		1D9044D02B46531D00C25E3F /* ReusableStackview.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1D9044CF2B46531C00C25E3F /* ReusableStackview.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +42,18 @@
 		1D90447F2B45ED9600C25E3F /* NotificationsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationsVC.swift; sourceTree = "<group>"; };
 		1D9044812B45EDAB00C25E3F /* ProfileVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileVC.swift; sourceTree = "<group>"; };
 		1D9044832B45EDED00C25E3F /* TabsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabsController.swift; sourceTree = "<group>"; };
+		1D9044872B45F13100C25E3F /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		1D9044892B45F14E00C25E3F /* RegisterVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RegisterVC.swift; sourceTree = "<group>"; };
+		1D90448C2B45F20600C25E3F /* UIViewController+Ext.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Ext.swift"; sourceTree = "<group>"; };
+		1D90448E2B45F20600C25E3F /* ReusableAlert.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableAlert.swift; sourceTree = "<group>"; };
+		1D90448F2B45F20600C25E3F /* ReusableButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableButton.swift; sourceTree = "<group>"; };
+		1D9044902B45F20600C25E3F /* ReusableLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableLabel.swift; sourceTree = "<group>"; };
+		1D9044912B45F20600C25E3F /* ReusableTextfield.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableTextfield.swift; sourceTree = "<group>"; };
+		1D9044922B45F20600C25E3F /* ReusableBodyLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableBodyLabel.swift; sourceTree = "<group>"; };
+		1D9044932B45F20600C25E3F /* ReusableSystemImage.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableSystemImage.swift; sourceTree = "<group>"; };
+		1D9044942B45F20600C25E3F /* ReusableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableView.swift; sourceTree = "<group>"; };
+		1D90449E2B45F25400C25E3F /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		1D9044CF2B46531C00C25E3F /* ReusableStackview.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReusableStackview.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +86,8 @@
 		1D9044622B45ECD300C25E3F /* SocialMediaApp */ = {
 			isa = PBXGroup;
 			children = (
+				1D90448D2B45F20600C25E3F /* Components */,
+				1D90448B2B45F20600C25E3F /* Extensions */,
 				1D9044782B45ED2200C25E3F /* Controllers */,
 				1D9044772B45ECEB00C25E3F /* Supporting */,
 				1D9044712B45ECD800C25E3F /* Info.plist */,
@@ -83,13 +109,55 @@
 		1D9044782B45ED2200C25E3F /* Controllers */ = {
 			isa = PBXGroup;
 			children = (
+				1D9044862B45F11200C25E3F /* Authentication */,
+				1D9044852B45F0F400C25E3F /* Tabs */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		1D9044852B45F0F400C25E3F /* Tabs */ = {
+			isa = PBXGroup;
+			children = (
+				1D9044832B45EDED00C25E3F /* TabsController.swift */,
 				1D90447B2B45ED5200C25E3F /* HomeVC.swift */,
 				1D90447D2B45ED7E00C25E3F /* PostVC.swift */,
 				1D90447F2B45ED9600C25E3F /* NotificationsVC.swift */,
 				1D9044812B45EDAB00C25E3F /* ProfileVC.swift */,
-				1D9044832B45EDED00C25E3F /* TabsController.swift */,
 			);
-			path = Controllers;
+			path = Tabs;
+			sourceTree = "<group>";
+		};
+		1D9044862B45F11200C25E3F /* Authentication */ = {
+			isa = PBXGroup;
+			children = (
+				1D90449E2B45F25400C25E3F /* HeaderView.swift */,
+				1D9044872B45F13100C25E3F /* LoginVC.swift */,
+				1D9044892B45F14E00C25E3F /* RegisterVC.swift */,
+			);
+			path = Authentication;
+			sourceTree = "<group>";
+		};
+		1D90448B2B45F20600C25E3F /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				1D90448C2B45F20600C25E3F /* UIViewController+Ext.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		1D90448D2B45F20600C25E3F /* Components */ = {
+			isa = PBXGroup;
+			children = (
+				1D90448E2B45F20600C25E3F /* ReusableAlert.swift */,
+				1D90448F2B45F20600C25E3F /* ReusableButton.swift */,
+				1D9044902B45F20600C25E3F /* ReusableLabel.swift */,
+				1D9044CF2B46531C00C25E3F /* ReusableStackview.swift */,
+				1D9044912B45F20600C25E3F /* ReusableTextfield.swift */,
+				1D9044922B45F20600C25E3F /* ReusableBodyLabel.swift */,
+				1D9044932B45F20600C25E3F /* ReusableSystemImage.swift */,
+				1D9044942B45F20600C25E3F /* ReusableView.swift */,
+			);
+			path = Components;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -163,12 +231,24 @@
 			buildActionMask = 2147483647;
 			files = (
 				1D9044842B45EDED00C25E3F /* TabsController.swift in Sources */,
+				1D90449F2B45F25400C25E3F /* HeaderView.swift in Sources */,
+				1D9044D02B46531D00C25E3F /* ReusableStackview.swift in Sources */,
+				1D90449C2B45F20600C25E3F /* ReusableView.swift in Sources */,
 				1D9044822B45EDAB00C25E3F /* ProfileVC.swift in Sources */,
+				1D9044992B45F20600C25E3F /* ReusableTextfield.swift in Sources */,
+				1D9044972B45F20600C25E3F /* ReusableButton.swift in Sources */,
+				1D9044952B45F20600C25E3F /* UIViewController+Ext.swift in Sources */,
+				1D9044962B45F20600C25E3F /* ReusableAlert.swift in Sources */,
+				1D9044982B45F20600C25E3F /* ReusableLabel.swift in Sources */,
+				1D9044882B45F13100C25E3F /* LoginVC.swift in Sources */,
+				1D90449A2B45F20600C25E3F /* ReusableBodyLabel.swift in Sources */,
 				1D90447C2B45ED5200C25E3F /* HomeVC.swift in Sources */,
 				1D9044802B45ED9600C25E3F /* NotificationsVC.swift in Sources */,
 				1D9044642B45ECD300C25E3F /* AppDelegate.swift in Sources */,
+				1D90448A2B45F14E00C25E3F /* RegisterVC.swift in Sources */,
 				1D90447E2B45ED7E00C25E3F /* PostVC.swift in Sources */,
 				1D9044662B45ECD300C25E3F /* SceneDelegate.swift in Sources */,
+				1D90449B2B45F20600C25E3F /* ReusableSystemImage.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
